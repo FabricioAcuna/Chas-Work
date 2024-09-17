@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+.Rubrik {
+  background-color: antiquewhite;
+  color: black;
+  text-align: center;
+  padding: 20px;
+}
+
+.Länkar {
+  background-color: darkcyan;
+  height: 400px;
+  width: 150px;
+  float: left;
+  padding: 20px;
+}
+
+.Innehåll {
+  background-color: cadetblue;
+  float: left;
+  width: calc(100% - 150px);
+  height: 400px;
+  text-align: center;
+}
+.footer {
+  background-color: antiquewhite;
+  color: black;
+  text-align: center;
+  padding: 20px;
+}
